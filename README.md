@@ -7,7 +7,7 @@
 </h1>
 <br />
 
-Hi, I'm Artyom, a backend engineer from Russia. Currently living in Berlin.
+Hi, I'm Artyom, a backend engineer currently living in Berlin.
 
 Passionate with designing and developing software.
 <br />
