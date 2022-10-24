@@ -1,5 +1,5 @@
 
-<h1 align="center">
+<h1 float="right">
   <div>
     <img src="https://media.giphy.com/media/qBUOTxKwa6hhK/giphy.gif" height="128"/>
   </div>
