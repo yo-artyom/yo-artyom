@@ -1,8 +1,5 @@
 
-<h1 float="right">
-  <div>
-    <img src="https://media.giphy.com/media/qBUOTxKwa6hhK/giphy.gif" height="128"/>
-  </div>
+<h1 align="center">
   Hi there
 </h1>
 <br />
@@ -21,3 +18,6 @@ Passionate with designing and developing software.
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/48/elixir_lang_logo_icon_169207.png" />
    💜💜💜
 </div>
+  <div>
+    <img src="https://media.giphy.com/media/qBUOTxKwa6hhK/giphy.gif" height="128"/>
+  </div>
