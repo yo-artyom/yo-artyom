@@ -1,9 +1,4 @@
 
-<h1 align="center">
-  Hi there
-</h1>
-<br />
-
 Hi, I'm Artyom, a backend engineer currently living in Berlin.
 
 Passionate with designing and developing software.
