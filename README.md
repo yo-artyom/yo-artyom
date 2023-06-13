@@ -1,5 +1,5 @@
 
-Hi, I'm Artyom, a backend engineer currently living in Berlin.
+Hi, I'm Artyom, a software engineer currently living in Berlin.
 
 Passionate with designing and developing software.
 <br />
